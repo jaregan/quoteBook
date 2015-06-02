@@ -1,0 +1,12 @@
+html, body {
+	width: 100%;
+	margin: 0;
+}
+
+.addQuoteBox {
+	width: 20%;
+}
+
+.addOtherBox {
+	width: 40%;
+}
